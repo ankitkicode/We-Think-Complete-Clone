@@ -226,7 +226,7 @@ scrollTrigger:{
   scroll:"body",
   start:"top 70%",
   end:"top 40%",
-  markers:true,
+  // markers:true,
   scrub:true
 
 
